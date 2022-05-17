@@ -1,6 +1,6 @@
 # visual-transformers-classification
 
-This repository provides the MS-COCO training code for the Visual Transformers with Primal Object Queries for Multi-Label Image Classification paper which will be published in ICPR2022.
+This repository provides the MS-COCO training code for the [Visual Transformers with Primal Object Queries for Multi-Label Image Classification](https://arxiv.org/abs/2112.05485) paper which will be published in ICPR2022.
 
 ## Environment
 * python 3.7
